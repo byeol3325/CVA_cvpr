@@ -7,7 +7,7 @@
 
 </div>
 
-## 📌 Notice
+## Notice
 **The source code is currently being organized and will be released soon.** 
 
 Due to ongoing projects and research commitments, the code cleaning process is taking some time. We are working hard to prepare a clean, reproducible, and easy-to-use codebase for the community.
@@ -18,7 +18,7 @@ If you have any urgent questions about the implementation details, methodology, 
 
 ---
 
-## 📖 Abstract
+## Abstract
 
 We propose **Context-aware Video-text Alignment (CVA)**, a novel framework to address a significant challenge in video temporal grounding: achieving temporally sensitive video-text alignment that remains robust to irrelevant background context.
 
@@ -29,10 +29,10 @@ Our framework is built on three key components:
 
 Through the synergy of these enhancements, CVA achieves state-of-the-art performance on major VTG benchmarks, including QVHighlights, Charades-STA, and TACoS.
 
-## 🚀 Environment Setup & Usage
+## Environment Setup & Usage
 *(Instructions and scripts will be updated upon code release)*
 
-## 📚 Citation
+## Citation
 If you find our work useful in your research, please consider citing our paper:
 ```bibtex
 @inproceedings{moon2026cva,
